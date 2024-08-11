@@ -919,7 +919,7 @@
                             <div class="pt-3 sm:pt-5">
                                 <h2 class="text-xl font-semibold text-black dark:text-white">endpoint waktu tonton
                                     pengguna.</h2>
-                                <a href="{{ url('/murid') }}" class="underline py-2">{{ url('/murid') }}</a>
+                                <a href="{{ url('/api/murid') }}" class="underline py-2">{{ url('/api/murid') }}</a>
                             </div>
 
                             <div class="pt-3 sm:pt-5">
@@ -929,7 +929,7 @@
                                 <p class="mt-4 text-sm/relaxed">
 
                                 </p>
-                                <a href="{{ url('/mentor') }}" class="underline py-2">{{ url('/mentor') }}</a>
+                                <a href="{{ url('/api/mentor') }}" class="underline py-2">{{ url('/api/mentor') }}</a>
                             </div>
                         </div>
                     </div>
